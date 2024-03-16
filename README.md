@@ -63,9 +63,9 @@ Si simplificamos el análisis buscando la correlación para ambos sexos y con la
 
 Y si mostramos el factor con correlación más alta y más baja vemos que los municipios se concentran en rangos y que la correlación tiene pinta de ser casual.
 
-![alt text](image-5.png)
+![alt text](/imagenes/image-5.png)
 
-![alt text](image-6.png)
+![alt text](/imagenes/image-6.png)
 
 ## **Próximos pasos**
 
