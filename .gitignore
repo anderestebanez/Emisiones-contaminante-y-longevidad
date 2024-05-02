@@ -1,3 +1,6 @@
 factores/input
 .venv
 factores/output
+*.csv
+*.zip
+scr/__pycache__
